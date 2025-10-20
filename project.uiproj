@@ -1,0 +1,6 @@
+{
+  "Name": "StarPrintingWithUiPath",
+  "ProjectType": "Process",
+  "Description": "This is Uipath Code For Basic Code printing, we can modify accordingly so print all the tricky star printing patterns as per needs",
+  "MainFile": "Main.xaml"
+}
